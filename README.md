@@ -7,8 +7,9 @@ A command-line "choose your own adventure" game written in Rust, built with the 
 1. Install Rust: https://rustup.rs
 2. Clone this repo
 3. Run:
-
-   cargo run
+```
+cargo run
+```
 
 ## How to play
 
